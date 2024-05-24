@@ -1,0 +1,2502 @@
+{
+  "Items": [
+    {
+      "Name": "hat.wolf",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "fogmachine",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "strobelight",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "minihelicopter.repair",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "scraptransportheli.repair",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "ammo.grenadelauncher.buckshot",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "ammo.grenadelauncher.he",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "ammo.grenadelauncher.smoke",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "arrow.hv",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "arrow.wooden",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "arrow.bone",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "arrow.fire",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "ammo.handmade.shell",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "ammo.nailgun.nails",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "ammo.pistol",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "ammo.pistol.fire",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "ammo.pistol.hv",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "ammo.rifle",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "ammo.rifle.explosive",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "ammo.rifle.incendiary",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "ammo.rifle.hv",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "ammo.rocket.basic",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "ammo.rocket.fire",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "ammo.rocket.hv",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "ammo.rocket.smoke",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "ammo.shotgun",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "ammo.shotgun.fire",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "ammo.shotgun.slug",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "door.double.hinged.metal",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "door.double.hinged.toptier",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "door.double.hinged.wood",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "door.hinged.metal",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "door.hinged.toptier",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "door.hinged.wood",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "floor.grill",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "floor.ladder.hatch",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "gates.external.high.stone",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "gates.external.high.wood",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "ladder.wooden.wall",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "wall.external.high.stone",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "wall.external.high",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "wall.frame.cell.gate",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "wall.frame.cell",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "wall.frame.fence.gate",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "wall.frame.fence",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "wall.frame.garagedoor",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "wall.frame.netting",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "wall.frame.shopfront",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "wall.frame.shopfront.metal",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "wall.window.bars.metal",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "wall.window.bars.toptier",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "wall.window.bars.wood",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "shutter.metal.embrasure.a",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "shutter.metal.embrasure.b",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "wall.window.glass.reinforced",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "shutter.wood.a",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "watchtower.wood",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "diving.fins",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "diving.mask",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "diving.tank",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "diving.wetsuit",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "boots.frog",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "barrelcostume",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "cratecostume",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "burlap.gloves.new",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "burlap.gloves",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "roadsign.gloves",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "tactical.gloves",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "halloween.mummysuit",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "scarecrow.suit",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "scarecrowhead",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "attire.hide.helterneck",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "hat.beenie",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "hat.boonie",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "bucket.helmet",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "burlap.headwrap",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "hat.candle",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "hat.cap",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "clatter.helmet",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "coffeecan.helmet",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "deer.skull.mask",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "heavy.plate.helmet",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "hat.miner",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "partyhat",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "riot.helmet",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "wood.armor.helmet",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "hoodie",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "bone.armor.suit",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "heavy.plate.jacket",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "jacket.snow",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "jacket",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "wood.armor.jacket",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "mask.balaclava",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "mask.bandana",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "metal.facemask",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "burlap.trousers",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "heavy.plate.pants",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "attire.hide.pants",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "roadsign.kilt",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "pants.shorts",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "wood.armor.pants",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "pants",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "attire.hide.poncho",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "burlap.shirt",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "shirt.collared",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "attire.hide.vest",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "shirt.tanktop",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "shoes.boots",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "burlap.shoes",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "attire.hide.boots",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "attire.hide.skirt",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "hazmatsuit",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "hazmatsuit_scientist",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "hazmatsuit_scientist_peacekeeper",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "scientistsuit_heavy",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "tshirt.long",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "tshirt",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "metal.plate.torso",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "roadsign.jacket",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "bleach",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "ducttape",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "fuse",
+      "MinAmount": 1,
+      "MaxAmount": 200
+    },
+    {
+      "Name": "gears",
+      "MinAmount": 1,
+      "MaxAmount": 200
+    },
+    {
+      "Name": "glue",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "metalblade",
+      "MinAmount": 1,
+      "MaxAmount": 200
+    },
+    {
+      "Name": "metalpipe",
+      "MinAmount": 1,
+      "MaxAmount": 200
+    },
+    {
+      "Name": "propanetank",
+      "MinAmount": 1,
+      "MaxAmount": 200
+    },
+    {
+      "Name": "roadsigns",
+      "MinAmount": 1,
+      "MaxAmount": 200
+    },
+    {
+      "Name": "rope",
+      "MinAmount": 1,
+      "MaxAmount": 200
+    },
+    {
+      "Name": "sewingkit",
+      "MinAmount": 1,
+      "MaxAmount": 200
+    },
+    {
+      "Name": "sheetmetal",
+      "MinAmount": 1,
+      "MaxAmount": 200
+    },
+    {
+      "Name": "metalspring",
+      "MinAmount": 1,
+      "MaxAmount": 200
+    },
+    {
+      "Name": "sticks",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "tarp",
+      "MinAmount": 1,
+      "MaxAmount": 200
+    },
+    {
+      "Name": "techparts",
+      "MinAmount": 1,
+      "MaxAmount": 450
+    },
+    {
+      "Name": "riflebody",
+      "MinAmount": 1,
+      "MaxAmount": 120
+    },
+    {
+      "Name": "semibody",
+      "MinAmount": 1,
+      "MaxAmount": 200
+    },
+    {
+      "Name": "smgbody",
+      "MinAmount": 1,
+      "MaxAmount": 200
+    },
+    {
+      "Name": "barricade.concrete",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "barricade.metal",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "barricade.sandbags",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "barricade.stone",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "barricade.wood",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "barricade.woodwire",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "bbq",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "trap.bear",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "bed",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "campfire",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "ceilinglight",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "chair",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "dropbox",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "fireplace.stone",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "spikes.floor",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "fridge",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "furnace.large",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "furnace",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "hitchtroughcombo",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "habrepair",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "jackolantern.angry",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "jackolantern.happy",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "trap.landmine",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "lantern",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "box.wooden.large",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "water.barrel",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "locker",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "mailbox",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "mining.pumpjack",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "small.oil.refinery",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "planter.large",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "planter.small",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "electric.audioalarm",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "electric.battery.rechargable.large",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "electric.battery.rechargable.medium",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "electric.battery.rechargable.small",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "electric.counter",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "electric.hbhfsensor",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "electric.laserdetector",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "electric.pressurepad",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "electric.doorcontroller",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "electric.andswitch",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "electric.blocker",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "electrical.branch",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "electrical.combiner",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "electrical.memorycell",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "electric.orswitch",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "electric.random.switch",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "electric.rf.broadcaster",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "electric.rf.receiver",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "electric.xorswitch",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "electric.fuelgenerator.small",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "electric.generator.small",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "electric.solarpanel.large",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "electric.flasherlight",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "electric.simplelight",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "electric.sirenlight",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "electric.switch",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "electric.splitter",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "electric.teslacoil",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "electric.timer",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "electric.cabletunnel",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "mining.quarry",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "target.reactive",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "box.repair.bench",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "research.table",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "rug.bear",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "rug",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "searchlight",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "shelves",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "sign.hanging.banner.large",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "sign.hanging",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "sign.hanging.ornate",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "sign.pictureframe.landscape",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "sign.pictureframe.portrait",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "sign.pictureframe.tall",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "sign.pictureframe.xl",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "sign.pictureframe.xxl",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "sign.pole.banner.large",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "sign.post.double",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "sign.post.single",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "sign.post.town",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "sign.post.town.roof",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "sign.wooden.huge",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "sign.wooden.large",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "sign.wooden.medium",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "sign.wooden.small",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "guntrap",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "sleepingbag",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "stash.small",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "spinner.wheel",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "fishtrap.small",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "table",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "workbench1",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "workbench2",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "workbench3",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "cupboard.tool",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "tunalight",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "vending.machine",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "water.catcher.large",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "water.catcher.small",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "water.purifier",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "generator.wind.scrap",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "box.wooden",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "apple",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "apple.spoiled",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "black.raspberries",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "blueberries",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "botabag",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "cactusflesh",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "can.beans",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "can.tuna",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "chocholate",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "fish.cooked",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "fish.raw",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "fish.minnows",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "fish.troutsmall",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "granolabar",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "chicken.burned",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "chicken.cooked",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "chicken.raw",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "chicken.spoiled",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "deermeat.burned",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "deermeat.cooked",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "deermeat.raw",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "horsemeat.burned",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "horsemeat.cooked",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "horsemeat.raw",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "humanmeat.burned",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "humanmeat.cooked",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "humanmeat.raw",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "humanmeat.spoiled",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "bearmeat.burned",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "bearmeat.cooked",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "bearmeat",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "wolfmeat.burned",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "wolfmeat.cooked",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "wolfmeat.raw",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "wolfmeat.spoiled",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "meat.pork.burned",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "meat.pork.cooked",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "meat.boar",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "mushroom",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "jar.pickle",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "smallwaterbottle",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "waterjug",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "fun.bass",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "fun.cowbell",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "drumkit",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "fun.flute",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "fun.guitar",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "fun.jerrycanguitar",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "piano",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "fun.tambourine",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "fun.trumpet",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "fun.tuba",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "xylophone",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "door.key",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "lock.key",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "lock.code",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "blueprintbase",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "chineselantern",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "dragondoorknocker",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "hat.dragonmask",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "arcade.machine.chippy",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "door.closer",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "attire.bunnyears",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "attire.bunny.onesie",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "easterdoorwreath",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "easterbasket",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "rustige_egg_a",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "rustige_egg_b",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "easter.bronzeegg",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "easter.goldegg",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "easter.paintedeggs",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "easter.silveregg",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "halloween.candy",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "largecandles",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "smallcandles",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "coffin.storage",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "cursedcauldron",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "gravestone",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "woodcross",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "wall.graveyard.fence",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "halloween.lootbag.large",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "halloween.lootbag.medium",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "halloween.lootbag.small",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "pumpkinbasket",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "scarecrow",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "skulldoorknocker",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "skull_fire_pit",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "spiderweb",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "spookyspeaker",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "halloween.surgeonsuit",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "note",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "skull.human",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "candycaneclub",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "xmas.lightstring",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "xmas.door.garland",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "candycane",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "giantcandycanedecor",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "giantlollipops",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "pookie.bear",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "coal",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "xmas.present.large",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "xmas.present.medium",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "xmas.present.small",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "snowmachine",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "snowball",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "snowman",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "stocking.large",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "stocking.small",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "attire.reindeer.headband",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "santahat",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "xmas.window.garland",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "xmasdoorwreath",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "xmas.decoration.baubels",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "xmas.decoration.candycanes",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "xmas.decoration.gingerbreadmen",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "xmas.decoration.lights",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "xmas.decoration.pinecone",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "xmas.decoration.star",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "xmas.decoration.tinsel",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "xmas.tree",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "autoturret",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "flameturret",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "gloweyes",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "ammo.rocket.sam",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "samsite",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "corn",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "clone.corn",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "seed.corn",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "clone.hemp",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "seed.hemp",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "pumpkin",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "clone.pumpkin",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "seed.pumpkin",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "fat.animal",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "battery.small",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "blood",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "bone.fragments",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "cctv.camera",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "charcoal",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "cloth",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "crude.oil",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "diesel_barrel",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "can.beans.empty",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "can.tuna.empty",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "explosives",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "gunpowder",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "hq.metal.ore",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "metal.refined",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "leather",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "lowgradefuel",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "metal.fragments",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "metal.ore",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "paper",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "researchpaper",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "water.salt",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "scrap",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "stones",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "sulfur.ore",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "sulfur",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "targeting.computer",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "water",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "skull.wolf",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "wood",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "antiradpills",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "tool.binoculars",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "explosive.timed",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "tool.camera",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "rf.detonator",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "fishingrod.handmade",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "flare",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "flashlight.held",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "geiger.counter",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "jackhammer",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "keycard_blue",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "keycard_green",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "keycard_red",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "largemedkit",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "map",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "syringe.medical",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "rf_pager",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "building.planner",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "grenade.smoke",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "supply.signal",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "surveycharge",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "wiretool",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "weapon.mod.8x.scope",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "weapon.mod.flashlight",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "weapon.mod.holosight",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "weapon.mod.lasersight",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "weapon.mod.muzzleboost",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "weapon.mod.muzzlebrake",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "weapon.mod.simplesight",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "weapon.mod.silencer",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "weapon.mod.small.scope",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "rifle.ak",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "bandage",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "grenade.beancan",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "rifle.bolt",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "bone.club",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "knife.bone",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "bow.hunting",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "cakefiveyear",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "chainsaw",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "salvaged.cleaver",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "bow.compound",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "crossbow",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "shotgun.double",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "pistol.eoka",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "grenade.f1",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "flamethrower",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "multiplegrenadelauncher",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "knife.butcher",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "pitchfork",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "sickle",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "hammer",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "hatchet",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "knife.combat",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "rifle.l96",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "rifle.lr300",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "lmg.m249",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "rifle.m39",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "pistol.m92",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "mace",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "machete",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "smg.mp5",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "pistol.nailgun",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "pickaxe",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "shotgun.waterpipe",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "pistol.python",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "pistol.revolver",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "rock",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "rocket.launcher",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "axe.salvaged",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "hammer.salvaged",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "icepick.salvaged",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "explosive.satchel",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "shotgun.pump",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "pistol.semiauto",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "rifle.semiauto",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "smg.2",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "shotgun.spas12",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "stonehatchet",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "stone.pickaxe",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "spear.stone",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "longsword",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "salvaged.sword",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "smg.thompson",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "toolgun",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "torch",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "bucket.water",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "spear.wooden",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "horse.armor.roadsign",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "horse.armor.wood",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "horse.saddlebag",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "horse.shoes.advanced",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    },
+    {
+      "Name": "horse.shoes.basic",
+      "MinAmount": 1,
+      "MaxAmount": 3
+    }
+  ],
+  "MaxAmounts": {
+    "ammo": 256,
+    "tools": 1,
+    "construction": 5,
+    "items": 6,
+    "traps": 1,
+    "resources": 5000
+  }
+}
