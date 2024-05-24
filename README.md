@@ -53,3 +53,5 @@ Here is an example configuration for the `Items` array:
     }
   ]
 }
+
+For further assistance or to report issues, please visit the JumpLoot Plugin page.
